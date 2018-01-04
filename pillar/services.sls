@@ -79,10 +79,10 @@ package_repository:
   release_version: develop
 
 data-service:
-  release_version: develop
+  release_version: PNDA-3127-validate
 
 hdfs_cleaner:
-  release_version: develop
+  release_version: PNDA-3127-validate
 
 platform_testing:
   release_directory: /opt/pnda
