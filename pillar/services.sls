@@ -113,3 +113,6 @@ hadoop_manager:
     user: scm
     password: scm
     database: scm
+
+livy:
+  release_version: "0.3.0"
